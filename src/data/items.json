@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "name":"book",
+        "price":100,
+        "imgUrl":"/imgs/bbok1.jpg"
+    },
+    {
+        "id":2,
+        "name":"fridge",
+        "price":5000,
+        "imgUrl":"/imgs/fridge1.jpg"
+    },
+    {
+        "id":3,
+        "name":"phone",
+        "price":300,
+        "imgUrl":"/imgs/phone1.jpg"
+    }
+]

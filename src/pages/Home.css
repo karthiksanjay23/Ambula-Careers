@@ -1,0 +1,38 @@
+.home-container {
+    text-align: center;
+    padding: 40px;
+  }
+  
+  .home-heading {
+    color: #2c3e50;
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .home-description {
+    color: #555;
+    font-size: 18px;
+    margin-bottom: 40px;
+  }
+  
+  .download-section {
+    margin-top: 40px;
+  }
+  
+  .download-link {
+    display: inline-block;
+    background-color: #3498db;
+    color: #fff;
+    font-size: 20px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    margin-right: 10px;
+    text-decoration: none;
+  }
+  
+  .download-link:hover {
+    background-color: #2980b9;
+  }
+  
